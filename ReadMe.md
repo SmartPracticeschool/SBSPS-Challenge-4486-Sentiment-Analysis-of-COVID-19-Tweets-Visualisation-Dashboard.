@@ -83,4 +83,8 @@ Create a MapBox account,and get the API tokens
  
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/Chatbot.JPG)
  ### CHATBOT
- 
+ ## Conclusion
+ Future Scope of our project that is, improvements that can be made, are being able to display a variation of sentiment over a period of months-since from the beginning of the pandemic till date.Twitter streaming limitations if overcome, could provide a visualisation with a much longer timeline.
+Seeing the variation over a timeline of months analysed along with newscasts will give a better analysis.
+
+
