@@ -38,7 +38,12 @@ Create a MapBox account,and get the API tokens
  
  ### Deploying
  1.Once all the Flows have been imported,the API key values inserted in the respective access nodes,and the HTML codes copied into the template nodes.Click on the red deploy button on top right corner of the node red flow editor.</br> 
+</br>
+
  
+ ![Landing Page](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/LandingPage.gif)
+ 
+
  ### Images Used 
    All Images have been taken from Unsplash(https://unsplash.com/) 
 
