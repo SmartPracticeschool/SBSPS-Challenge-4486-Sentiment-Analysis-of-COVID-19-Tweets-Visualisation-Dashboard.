@@ -59,6 +59,7 @@ Create a MapBox account,and get the API tokens
  # Node-Red Flows
  
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Flows_pics/HomePage.JPG)
+ # Flow 2 - Tweet Dashboard
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Flows_pics/MainPage.JPG)
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Flows_pics/DashboardFlow.JPG)
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Flows_pics/LineGraph.JPG)
