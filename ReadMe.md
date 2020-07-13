@@ -2,7 +2,7 @@
 ## COVID-19 TWITTER SENTIMENT ANALYSIS VISUALISATION DASHBOARD
 ![intro](https://images.unsplash.com/photo-1552120476-9ee56c8611f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 
-Find detailed project report in https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/IBM%20HACK%20CHALLENGE%20PROJECT%20REPORT.pdf
+Find detailed project report in https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/IBM%20HACK%20CHALLENGE%20PROJECT%20REPORT%20(1).pdf
 ## Introduction
 
    Sentiment Analysis (Opinion Mining) is an extremely powerful tool for predictive modelling and analysis. Sentiment Analysis relies on advanced text mining techniques and then performs Natural Language Processing on the texts to predict the latent sentiment or opinion of the text in a given context like analysing movie reviews, restaurant ratings or in this case government response against the backdrop of the coronavirus pandemic.
