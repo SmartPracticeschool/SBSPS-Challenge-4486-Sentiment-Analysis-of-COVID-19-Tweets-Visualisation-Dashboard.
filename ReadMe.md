@@ -1,4 +1,5 @@
 # IBMHACKCHALLENGE 2020
+## COVID-19 TWITTER SENTIMENT ANALYSIS VISUALISATION DASHBOARD
 ![intro](https://images.unsplash.com/photo-1480694313141-fce5e697ee25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 
 Find detailed project report in https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/IBM%20HACK%20CHALLENGE%20PROJECT%20REPORT.pdf
@@ -36,6 +37,9 @@ Create a MapBox account,and get the API tokens
  Copy the HTML code and paste the entire code in the corresponding template nodes in the Main Page flow.
  
  ### Deploying
- 1.Once all the Flows have been imported,the API key values inserted in the respective access nodes,and the HTML codes copied into the template nodes.Click on the red deploy button on top right corner of the node red flow editor. 
+ 1.Once all the Flows have been imported,the API key values inserted in the respective access nodes,and the HTML codes copied into the template nodes.Click on the red deploy button on top right corner of the node red flow editor.</br> 
+ 
+ ### Images Used 
+   All Images have been taken from Unsplash(https://unsplash.com/) 
 
     
