@@ -20,7 +20,7 @@ Find **Project PPT** here -> https://docs.google.com/presentation/d/1khU2b31zzD5
    4.Tweets on lockdown saved in database for predictive analysis and displayed on visualisation dashbaord with pie charts, line graph etc.</br>
    5.Latest Twitter News updates from Health Agencies(Eg WHO,MOHFW), Travel(AAI,IRCTC etc), News Channels(BBC).</br>
    6.COVID-19 ChatBot assistant to answer any and all COVID related queries.</br>
-   7.Name ,Address of all COVID-19 Centres in Karnataka plotted clearly on a map.</br>
+   7.Name, Address of all COVID-19 Centres in Karnataka plotted clearly on a map.</br>
    
 
 ## Prerequisites
