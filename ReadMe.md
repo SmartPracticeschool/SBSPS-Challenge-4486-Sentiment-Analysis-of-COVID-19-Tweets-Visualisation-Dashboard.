@@ -73,8 +73,8 @@ Create a MapBox account,and get the API tokens
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/Chatbot.JPG)
  ### CHATBOT
  ## Conclusion
- Future Scope of our project that is, improvements that can be made, are being able to display a variation of sentiment over a period of months-since from the beginning of the pandemic till date.Twitter streaming limitations if overcome, could provide a visualisation with a much longer timeline.
-Seeing the variation over a timeline of months analysed along with newscasts will give a better analysis.
+ This COVID-19 Twitter Sentiment Analysis Web Application can stream live tweets and update the sentiment score on a visualisation dashbaord.All user location with score of sentiment can be reflected on the map of India clearly indicating positive,negative and neutral tweets. It can also visualise images attached to tweets.Besides this latest news from twitter is contantly updated in the news headlines page, and dynamic charts on the statistics page bring to the user fresh trends and numbers relating to the pandemic.
+ Tweets are also saved in database for historical analysis.Future scope involves overcoming the twitter streaming API limitations.
 
 
 
