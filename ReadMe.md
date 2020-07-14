@@ -49,7 +49,7 @@ Create a MapBox account,and get the API tokens
 
  ### Images Used 
    All Images have been taken from Unsplash(https://unsplash.com/)</br> 
-   **Visualisaion Dashboard Home Page**</br>
+   **Visualisation Dashboard Home Page**</br>
    ![](https://images.unsplash.com/photo-1579869847557-1f67382cc158?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
    
    **Statistics Page**</br>
