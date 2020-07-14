@@ -102,3 +102,8 @@ Create a MapBox account,and get the API tokens
    
    **Landing Page**</br>
  ![](https://images.unsplash.com/photo-1480694313141-fce5e697ee25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+ 
+ ## Team Members
+ 1.Ahan Bose
+ 2.Vedica Rao
+ 3.Prithwijit Banerjee
