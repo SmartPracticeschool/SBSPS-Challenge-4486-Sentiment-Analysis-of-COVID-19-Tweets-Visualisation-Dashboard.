@@ -46,18 +46,6 @@ Create a MapBox account,and get the API tokens
  
  ![Landing Page](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/LandingPage.gif)
  
-
- ### Images Used 
-   All Images have been taken from Unsplash(https://unsplash.com/)</br> 
-   **Visualisation Dashboard Home Page**</br>
-   ![](https://images.unsplash.com/photo-1579869847557-1f67382cc158?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
-   
-   **Statistics Page**</br>
- ![](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=60)
-
-   
-   **Landing Page**</br>
- ![](https://images.unsplash.com/photo-1480694313141-fce5e697ee25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
  
  # Node-Red Flows
  
@@ -89,3 +77,15 @@ Create a MapBox account,and get the API tokens
 Seeing the variation over a timeline of months analysed along with newscasts will give a better analysis.
 
 
+
+ ### Images Used 
+   All Images have been taken from Unsplash(https://unsplash.com/)</br> 
+   **Visualisation Dashboard Home Page**</br>
+   ![](https://images.unsplash.com/photo-1579869847557-1f67382cc158?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+   
+   **Statistics Page**</br>
+ ![](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=60)
+
+   
+   **Landing Page**</br>
+ ![](https://images.unsplash.com/photo-1480694313141-fce5e697ee25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
