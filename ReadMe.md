@@ -66,15 +66,15 @@ Create a MapBox account,and get the API tokens
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/lockdown.JPG)
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/mapnew.jpg)
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/StatsNew.jpg)
- ### COVID-19 STATISTICS
+ ### **COVID-19 STATISTICS**
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/NewsUpdates.JPG)
- ### NEWS UPDATES
+ ### **NEWS UPDATES**
  
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/Chatbot.JPG)
- ### CHATBOT
+ ### **CHATBOT**
  ## Conclusion
- This COVID-19 Twitter Sentiment Analysis Web Application can stream live tweets and update the sentiment score on a visualisation dashbaord.All user location with score of sentiment can be reflected on the map of India clearly indicating positive,negative and neutral tweets. It can also visualise images attached to tweets.Besides this latest news from twitter is contantly updated in the news headlines page, and dynamic charts on the statistics page brings to the user most recent trends and numbers relating to the pandemic.
- Tweets are also saved in database for historical analysis.Future scope involves overcoming the twitter streaming API limitations.
+ This COVID-19 Twitter Sentiment Analysis Web Application can stream live tweets and update the sentiment score on a visualisation dashboard. All user locations along with sentiment score can be reflected on the map of India clearly indicating positive, negative and neutral tweets. It can also visualize images attached to tweets. Besides this, latest news from twitter is contantly updated in the news headlines page, and dynamic charts on the statistics page bring to the user the most recent trends and numbers relating to the pandemic.
+ Tweets are also saved in a database for historical analysis. Future scope involves overcoming the twitter streaming API limitations.
 
 
 
