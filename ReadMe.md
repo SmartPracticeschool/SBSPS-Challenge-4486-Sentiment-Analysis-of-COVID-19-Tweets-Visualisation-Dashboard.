@@ -77,7 +77,7 @@ Create a MapBox account,and get the API tokens
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/imageanalysis.JPG)
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/lockdown.JPG)
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/mapnew.jpg)
- ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/StatsNew.JPG)
+ ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/StatsNew.jpg)
  ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-4486-Sentiment-Analysis-of-COVID-19-Tweets-Visualisation-Dashboard./blob/master/Screenshots/NewsUpdates.JPG)
  ### NEWS UPDATES
  
